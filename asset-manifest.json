@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stunning-octo-goggles/static/css/main.5ea42672.chunk.css",
+    "main.css": "/stunning-octo-goggles/static/css/main.050c5657.chunk.css",
     "main.js": "/stunning-octo-goggles/static/js/main.a6028c5b.chunk.js",
     "main.js.map": "/stunning-octo-goggles/static/js/main.a6028c5b.chunk.js.map",
     "runtime-main.js": "/stunning-octo-goggles/static/js/runtime-main.f9628277.js",
@@ -10,14 +10,14 @@
     "static/js/3.76e257e9.chunk.js": "/stunning-octo-goggles/static/js/3.76e257e9.chunk.js",
     "static/js/3.76e257e9.chunk.js.map": "/stunning-octo-goggles/static/js/3.76e257e9.chunk.js.map",
     "index.html": "/stunning-octo-goggles/index.html",
-    "static/css/main.5ea42672.chunk.css.map": "/stunning-octo-goggles/static/css/main.5ea42672.chunk.css.map",
+    "static/css/main.050c5657.chunk.css.map": "/stunning-octo-goggles/static/css/main.050c5657.chunk.css.map",
     "static/js/2.a3fca7d9.chunk.js.LICENSE.txt": "/stunning-octo-goggles/static/js/2.a3fca7d9.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/stunning-octo-goggles/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f9628277.js",
     "static/js/2.a3fca7d9.chunk.js",
-    "static/css/main.5ea42672.chunk.css",
+    "static/css/main.050c5657.chunk.css",
     "static/js/main.a6028c5b.chunk.js"
   ]
 }
