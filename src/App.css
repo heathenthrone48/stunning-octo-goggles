@@ -1,0 +1,43 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.fl{
+  width: 200px;
+}
+
+.flex1{
+  background-color: red;
+  height: 300px;
+  width: 10px;
+}
+
+
+
+.flex2{
+  background-color: blue;
+  height: 100px;
+  align-self: flex-start;
+}
+
+.flex3{
+  background-color: magenta;
+  height: 100px;
+}
+.flex4{
+  background-color: red;
+  height: 300px;
+}
+
+.flex5{
+  background-color: blue;
+  height: 100px;
+}
+
+.flex6{
+  background-color: magenta;
+  height: 100px;
+}

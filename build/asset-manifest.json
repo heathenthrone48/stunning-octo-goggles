@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flex-game/static/css/main.de54629d.chunk.css",
+    "main.js": "/flex-game/static/js/main.a6028c5b.chunk.js",
+    "main.js.map": "/flex-game/static/js/main.a6028c5b.chunk.js.map",
+    "runtime-main.js": "/flex-game/static/js/runtime-main.ad396d3e.js",
+    "runtime-main.js.map": "/flex-game/static/js/runtime-main.ad396d3e.js.map",
+    "static/js/2.a3fca7d9.chunk.js": "/flex-game/static/js/2.a3fca7d9.chunk.js",
+    "static/js/2.a3fca7d9.chunk.js.map": "/flex-game/static/js/2.a3fca7d9.chunk.js.map",
+    "static/js/3.76e257e9.chunk.js": "/flex-game/static/js/3.76e257e9.chunk.js",
+    "static/js/3.76e257e9.chunk.js.map": "/flex-game/static/js/3.76e257e9.chunk.js.map",
+    "index.html": "/flex-game/index.html",
+    "static/css/main.de54629d.chunk.css.map": "/flex-game/static/css/main.de54629d.chunk.css.map",
+    "static/js/2.a3fca7d9.chunk.js.LICENSE.txt": "/flex-game/static/js/2.a3fca7d9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flex-game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad396d3e.js",
+    "static/js/2.a3fca7d9.chunk.js",
+    "static/css/main.de54629d.chunk.css",
+    "static/js/main.a6028c5b.chunk.js"
+  ]
+}
