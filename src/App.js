@@ -1,28 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
 import { Component } from 'react';
-
+import { Greet } from './components/Greet';
 class App extends Component{
   render(){
     return (
       <div className="App">
-        <div class="container">
-          <div class="fl flex1">
+        <Greet />
+        <div className="container">
+          <div className="fl flex1">
             Flex 1
           </div>
-          <div class="fl flex2">
+          <div className="fl flex2">
             Flex 2
           </div>
-          <div class="fl flex3">
+          <div className="fl flex3">
             Flex 3
           </div>
-          <div class="fl flex4">
+          <div className="fl flex4">
             Flex 4
           </div>
-          <div class="fl flex5">
+          <div className="fl flex5">
             Flex 5
           </div>
-          <div class="fl flex6">
+          <div className="fl flex6">
             Flex 6
           </div>
         </div>
