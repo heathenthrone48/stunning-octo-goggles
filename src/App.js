@@ -1,11 +1,13 @@
 import './App.css';
 import { Component } from 'react';
 import { Greet } from './components/Greet';
+import Welcome from './components/Welcom';
 class App extends Component{
   render(){
     return (
       <div className="App">
         <Greet />
+        {/* <Welcome /> */}
         <div className="container">
           <div className="fl flex1">
             Flex 1

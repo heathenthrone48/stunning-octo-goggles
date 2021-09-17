@@ -22,7 +22,7 @@ import React from "react";
 // Fourth Method = Named Export ( The component which calls Greet need to Import it as ->)
 // import { Greet } from "../components/Greet.js";
 // Explicit export statement not required
-export const Greet = () => <h1>Hello world</h1>;
+export const Greet = () => <h1 style={{fontFamily: "consolas", fontSize:"60px", margin :"5% 0%"}}>Hello Human</h1>;
 
 
 // export default Greet;   //This function can be Accessed using any Alias

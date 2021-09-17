@@ -10,7 +10,7 @@
 }
 
 .flex1{
-  background-color: red;
+  background-color: orange;
   height: 300px;
   /* width: 10px; */
 }
@@ -18,26 +18,30 @@
 
 
 .flex2{
-  background-color: blue;
+  background-color: violet;
   height: 100px;
   align-self: flex-start;
 }
 
 .flex3{
-  background-color: magenta;
+  background-color: slateblue;
   height: 100px;
 }
 .flex4{
-  background-color: red;
+  background-color: mediumseagreen;
   height: 300px;
 }
 
 .flex5{
-  background-color: blue;
+  background-color: dodgerblue;
   height: 100px;
 }
 
 .flex6{
-  background-color: magenta;
+  background-color: tomato;
   height: 100px;
+}
+
+h1{
+  text-align: center;
 }
